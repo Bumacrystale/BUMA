@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bumacrystale
+- 👋 Hi, I’m @Buma
 - 👀 I’m interested in tech.
 - 🌱 I’m currently learning Team work in PYTHON
 - 💞️ I’m looking to collaborate on a project so if you have any.. bring it on
